@@ -32,7 +32,7 @@ The CRISP-DM (Cross Industry Standard Process for Data Mining) methodology is a 
 Python, HTML, Data Science, Machine Learning, Business Analyst
 
 ## 🔗 Links
-[![github](https://img.shields.io/badge/github-000?style=for-the-badge&logo=github&logoColor=white)](https://triowibowo21.medium.com) 
+[![github](https://img.shields.io/badge/github-000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/triowibowo21) 
 
 [![medium](https://img.shields.io/badge/medium-000?style=for-the-badge&logo=medium&logoColor=white)](https://triowibowo21.medium.com)
 
