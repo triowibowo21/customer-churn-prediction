@@ -16,6 +16,7 @@ Hence, this case focuses on predicting customer churn. It is important for compa
 
 ## Metric
 Metric for this case is the optimal model with high accuracy to predict customer churn, defined as follows:
+
 ![\frac{\text{Number&space;of&space;correct&space;predictions}}{\text{Number&space;of&space;total&space;test&space;sample}}](https://latex.codecogs.com/svg.image?Accuracy=\frac{\text{Number&space;of&space;correct&space;predictions}}{\text{Number&space;of&space;total&space;test&space;sample}})
 
 ## Flow
