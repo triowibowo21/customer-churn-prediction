@@ -33,11 +33,8 @@ The CRISP-DM (Cross Industry Standard Process for Data Mining) methodology is a 
 Python, HTML, Data Science, Machine Learning, Business Analyst
 
 ## 🔗 Links
-[![github](https://img.shields.io/badge/github-000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/triowibowo21) 
-
-[![medium](https://img.shields.io/badge/medium-000?style=for-the-badge&logo=medium&logoColor=white)](https://triowibowo21.medium.com)
-
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/triowibowo)
-
-[![kaggle](https://img.shields.io/badge/kaggle-1DA1F2?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/triowibowo28)
+[![github](https://img.shields.io/badge/github-000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/triowibowo21/customer-churn-prediction/blob/master/customer-churn-prediction.ipynb) 
+[![medium](https://img.shields.io/badge/medium-000?style=for-the-badge&logo=medium&logoColor=white)](https://triowibowo21.medium.com/customer-churn-prediction-telecommunications-industry-79f5e297f6d7)
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/posts/triowibowo_customer-churn-prediction-activity-7217887843602378753-dtl2?utm_source=share&utm_medium=member_desktop)
+[![kaggle](https://img.shields.io/badge/kaggle-1DA1F2?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/code/triowibowo28/customer-churn-prediction)
 
